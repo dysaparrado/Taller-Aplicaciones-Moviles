@@ -1,0 +1,4 @@
+#Sun Feb 25 17:40:14 MST 2018
+base.0=/home/dss22/AndroidStudioProjects/Proyectos/1.1TablaMultiplicar/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
