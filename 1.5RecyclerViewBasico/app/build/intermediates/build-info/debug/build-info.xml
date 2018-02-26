@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519622516749"
+    timestamp="1519649898193"
     token="2794942698256535153"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,19 +18,16 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="252" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
         location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -59,19 +56,19 @@
     <artifact
         location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
+    <artifact
+        location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1519622516749"
+        timestamp="1519649898193"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/dss22/AndroidStudioProjects/Proyectos/1.5RecyclerViewBasico/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
