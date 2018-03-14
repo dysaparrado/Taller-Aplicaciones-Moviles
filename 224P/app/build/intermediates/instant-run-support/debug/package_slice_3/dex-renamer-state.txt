@@ -1,0 +1,4 @@
+#Wed Mar 14 08:51:19 MST 2018
+base.0=/home/dss22/Música/224P/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
