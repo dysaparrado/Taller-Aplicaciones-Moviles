@@ -1,0 +1,4 @@
+#Tue Mar 13 19:45:32 MST 2018
+base.0=/home/dss22/Descargas/231AlmacExterno/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
