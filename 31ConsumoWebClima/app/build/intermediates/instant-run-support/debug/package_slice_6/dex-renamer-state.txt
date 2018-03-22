@@ -1,0 +1,4 @@
+#Wed Mar 21 19:02:47 MST 2018
+base.0=/home/dss22/Documentos/AndroidStudioProjects/31ConsumoWebClima/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
