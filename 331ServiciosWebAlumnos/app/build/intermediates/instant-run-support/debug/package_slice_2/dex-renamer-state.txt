@@ -1,0 +1,4 @@
+#Sun Apr 08 19:39:45 MDT 2018
+base.0=/home/dss22/AndroidStudioProjects/Proyectos/331ServiciosWebAlumnos/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
