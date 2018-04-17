@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236066662993",
+    "firebase_url": "https://fbase-73dbc.firebaseio.com",
+    "project_id": "fbase-73dbc",
+    "storage_bucket": "fbase-73dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236066662993:android:0f479e63d22e3c22",
+        "android_client_info": {
+          "package_name": "com.example.dss22.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236066662993-iesmlba2dq600uuvthsuja44ii9tro2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-8nVZqxewCjq4ih4y2UZRrLZi5Kwt4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
