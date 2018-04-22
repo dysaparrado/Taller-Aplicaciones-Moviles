@@ -1,0 +1,4 @@
+#Sun Apr 22 15:03:16 MDT 2018
+base.0=/home/dss22/Vídeos/41Threads/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
