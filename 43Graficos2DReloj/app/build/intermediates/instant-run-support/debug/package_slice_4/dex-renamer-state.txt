@@ -1,0 +1,4 @@
+#Wed Apr 25 23:27:22 MDT 2018
+base.0=/home/dss22/AndroidStudioProjects/Proyectos/43Graficos2DReloj/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
