@@ -1,4 +1,4 @@
-#Mon Apr 30 14:37:05 MDT 2018
-base.0=/home/dss22/AndroidStudioProjects/Proyectos/46AnimacionFrameAnimation/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon Apr 30 15:44:50 MDT 2018
+base.0=/home/dss22/AndroidStudioProjects/Proyectos/46AnimacionFrameAnimation/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex

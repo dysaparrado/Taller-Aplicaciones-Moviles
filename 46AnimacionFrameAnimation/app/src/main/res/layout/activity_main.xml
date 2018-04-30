@@ -35,16 +35,20 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:backgroundTint="@color/colorPrimary"
             android:onClick="onStartBtnClick"
-            android:text="Start" />
+            android:text="Start"
+            android:textColor="@android:color/background_light" />
 
         <Button
             android:id="@+id/btnClear"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:backgroundTint="@color/colorPrimaryDark"
             android:onClick="onStopBtnClick"
-            android:text="Stop" />
+            android:text="Stop"
+            android:textColor="@android:color/background_light" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
