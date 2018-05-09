@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6da6492b0c1c86f68dc14ee7b8307961/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d17075ce7512f6a37176586d0865d843/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/501481be1b87934e7a1587548785849c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c8b7c8847e71cfa6919b74f573ba62c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/395ed695924978c9b9e17010d91d411b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc430051253d5d438c8b93449a287f02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b5ce2fc6e499f73b93669624376f6aa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e6f75f9c0dd6d3e18a208c6269f94d21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18a96fb0b861efadbdbfa6c92609c704/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6f797d5586d3a79b75c4d1c4ed7bc868/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc2365db41542f575c5f93cb4f22a6e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6f1a9a740b9a2286d6b8bb19ef4e69da/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d17075ce7512f6a37176586d0865d843/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d17075ce7512f6a37176586d0865d843/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.dss22.a54contadorpasos.MainActivity
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6da6492b0c1c86f68dc14ee7b8307961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6da6492b0c1c86f68dc14ee7b8307961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d17075ce7512f6a37176586d0865d843/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d17075ce7512f6a37176586d0865d843/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/501481be1b87934e7a1587548785849c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/501481be1b87934e7a1587548785849c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c8b7c8847e71cfa6919b74f573ba62c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c8b7c8847e71cfa6919b74f573ba62c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/395ed695924978c9b9e17010d91d411b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/395ed695924978c9b9e17010d91d411b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc430051253d5d438c8b93449a287f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc430051253d5d438c8b93449a287f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b5ce2fc6e499f73b93669624376f6aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b5ce2fc6e499f73b93669624376f6aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e6f75f9c0dd6d3e18a208c6269f94d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dss22/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e6f75f9c0dd6d3e18a208c6269f94d21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18a96fb0b861efadbdbfa6c92609c704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18a96fb0b861efadbdbfa6c92609c704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6f797d5586d3a79b75c4d1c4ed7bc868/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6f797d5586d3a79b75c4d1c4ed7bc868/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc2365db41542f575c5f93cb4f22a6e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc2365db41542f575c5f93cb4f22a6e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6f1a9a740b9a2286d6b8bb19ef4e69da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dss22/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6f1a9a740b9a2286d6b8bb19ef4e69da/AndroidManifest.xml:20:5-44
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		ADDED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dss22/AndroidStudioProjects/Proyectos/54ContadorPasos/app/src/main/AndroidManifest.xml
