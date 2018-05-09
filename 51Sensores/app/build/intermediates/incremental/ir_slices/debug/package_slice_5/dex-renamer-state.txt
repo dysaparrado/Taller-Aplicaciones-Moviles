@@ -1,0 +1,4 @@
+#Wed May 09 00:10:04 MDT 2018
+base.0=/home/dss22/AndroidStudioProjects/Proyectos/51Sensores/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
