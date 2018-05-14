@@ -1,0 +1,4 @@
+#Wed May 09 23:54:25 MDT 2018
+base.0=/home/dss22/Imágenes/jueguito/app/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
