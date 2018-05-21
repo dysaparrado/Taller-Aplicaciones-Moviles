@@ -1,0 +1,4 @@
+#Mon May 21 09:49:11 MDT 2018
+base.0=/home/dss22/Descargas/59Laboratorio/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
