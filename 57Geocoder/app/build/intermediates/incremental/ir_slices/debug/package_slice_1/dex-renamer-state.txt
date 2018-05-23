@@ -1,0 +1,4 @@
+#Tue May 22 19:50:08 MDT 2018
+base.0=/home/dss22/Descargas/57Geocoder/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
