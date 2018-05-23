@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "482336856598",
+    "firebase_url": "https://dam20181u3p01.firebaseio.com",
+    "project_id": "dam20181u3p01",
+    "storage_bucket": "dam20181u3p01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482336856598:android:f27c862f8d8f1c22",
+        "android_client_info": {
+          "package_name": "com.example.dss22.a58calllog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482336856598-315v4mm9lsg7c1qomg0g6re40cot96fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7kqh_M0D8nhTw00P-2_P6Xjl7KNtyuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
